@@ -1,0 +1,16 @@
+{
+  "name": "curdapisqlnode",
+  "version": "1.0.0",
+  "description": "the project rest apis ",
+  "main": "server.js",
+  "scripts": {
+      "start": "nodemon node server.js"
+  },
+  "author": "akash",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
